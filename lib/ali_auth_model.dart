@@ -867,6 +867,7 @@ Map<String, dynamic> _$AliAuthModelToJson(AliAuthModel instance) =>
       'protocolGravity': EnumUtils.formatGravityValue(instance.protocolGravity),
       'privacyOffsetY': instance.privacyOffsetY,
       'privacyOffsetY_B': instance.privacyOffsetY_B,
+      'privacyOffsetX': instance.privacyOffsetX,
       'privacyTextSize': instance.privacyTextSize,
       'privacyMargin': instance.privacyMargin,
       'privacyBefore': instance.privacyBefore,
